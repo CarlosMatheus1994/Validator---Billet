@@ -4,7 +4,7 @@ Para execução do projeto, primeiro instale o npm (npm install) e utilize npm s
 
 após rodar o projeto, em seu navegador, utilize a URL abaixo para ver a documentação com instruções de como mandar a requisição, e as responses da mesma.
 
--  http://localhost:3333/validateBardoc/doc/
+-  http://localhost:3333/validatorBar/doc/
 
 Para execução do teste unitário, utilize npm run test.
 
